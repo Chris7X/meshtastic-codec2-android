@@ -1,0 +1,6 @@
+﻿cpp/include/codec2/*.h
+build/
+.gradle/
+.idea/
+*.iml
+local.properties
